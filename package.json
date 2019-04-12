@@ -1,0 +1,19 @@
+{
+  "name": "zu-starter",
+  "version": "1.0.0",
+  "description": "A starter site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowzoo/zu-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nowzoo/zu-starter/issues"
+  },
+  "homepage": "https://github.com/nowzoo/zu-starter#readme"
+}
